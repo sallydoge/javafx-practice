@@ -2,10 +2,9 @@
 # Homework 6 - Responding to Change
 
 ## Authors
-1) Name, netid, [GitHub profile name]
-2) Name, netid, [GitHub profile name]
-3) Name, netid, [GitHub profile name]
-4) Name, netid, [GitHub profile name]
+1) Jonathan Le, pqq2hu, sallydoge
+2) Evan Xu, prq5za, evanxshu
+3) Ramkrishna Sharma, jgc4mr, Ramuva
 
 ## To Run
 
@@ -15,29 +14,19 @@
 
 List the primary contributions of each author. It is recommended to update this with your contributions after each coding session.:
 
-### [Author 1 - replace this with their name]
+### Jonathan Le
 
-* Author 1 contributions
-* as a bulleted list
-* each line starts with an asterisk and a space
+* TODO: add contributions
 
-### [Author 2 - replace this with their name]
 
-* Author 2 contributions
-* as a bulleted list
-* each line starts with an asterisk and a space
+### Evan Xu
 
-### [Author 3 - replace this with their name]
+* TODO: add contributions
 
-* Author 3 contributions
-* as a bulleted list
-* each line starts with an asterisk and a space
 
-### [Author 4 - replace this with their name]
+### Ramkrishna Sharma
 
-* Author 4 contributions
-* as a bulleted list
-* each line starts with an asterisk and a space
+* TODO: add contributions
 
 ## Issues
 
