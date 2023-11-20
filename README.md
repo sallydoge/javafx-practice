@@ -16,7 +16,7 @@ List the primary contributions of each author. It is recommended to update this 
 
 ### Jonathan Le
 
-* TODO: add contributions
+* TODO: add contributions - (Sample experiment change)
 
 
 ### Evan Xu
